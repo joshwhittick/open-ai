@@ -1,6 +1,6 @@
 # open-ai
 
-run openAI (https://openai.com) text-davinci-002 model in comand line with option to input an audio file and transcribe this as the intput to OpenAI, could be developed to work in voice recording for ease of use
+run openAI (https://openai.com) text-davinci-002 model in command line with option to input an audio file and transcribe this as the input to OpenAI, could be developed to work in voice recording for ease of use
 
 .zsh file is just to run it in one word caus am lazy
 
