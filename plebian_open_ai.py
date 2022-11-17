@@ -18,3 +18,4 @@ def Reply(question):
 while True:
 	ans = Reply(input("Enter prompt for OpenAI:" ))
 	print(f'OpenAI:{ans}')
+	
